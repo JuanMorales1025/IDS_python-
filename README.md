@@ -18,7 +18,7 @@ This project implements an Intrusion Detection System (IDS) in Python using the 
 
 ## Configuration
 
--Run python  `Prueba interfaces.py´ to list available network interfaces.
+-Run python  `interfaces.py´ to list available network interfaces.
 -Identify the correct interface and configure it in the main script (IDS.py).
 
 ## Usage
