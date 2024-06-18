@@ -26,7 +26,7 @@ Run the IDS using the following command:
 ```bash
    python IDS.py
 ```
-##Example Port Scan
+## Example Port Scan
 Use nmap from another machine to scan ports on the machine running the IDS.
 ```bash
 nmap -sS -p 1-65535 <IP_ADDRESS_OF_IDS>
